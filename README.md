@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="assets/Screenshot_20260127-143707_Chrome.jpg" width="160" style="border-radius:50%;" />
+</p>
+
+
+
+
 <!--
 **Mari94k/Mari94k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
