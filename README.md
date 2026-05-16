@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="assets/Screenshot_20260127-143707_Chrome.jpg" width="160" style="border-radius:50%;" />
+  <img src="Screenshot_20260127-143707_Chrome.jpg/assets" width="160" style="border-radius:50%;" />
 </p>
 
 
