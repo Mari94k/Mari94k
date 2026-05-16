@@ -14,7 +14,7 @@ Researcher in statistical learning, healthcare AI, intelligent systems, and adap
 <img src="https://img.shields.io/badge/Academic%20Website-Visit-blue?style=for-the-badge">
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="https://https://www.linkedin.com/in/maral-karbaschi">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
